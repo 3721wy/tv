@@ -39,10 +39,6 @@ http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204403.m3u
 http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u8
 #EXTINF:-1 tvg-id="17" tvg-logo="http://tv.sason.xyz/logo/cctv17.png" group-title="A.央视",CCTV-17 农村农业 FHD
 http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8
-#EXTINF:-1 tvg-id="20" tvg-logo="http://tv.sason.xyz/logo/cgtn.png" group-title="A.央视",CGTN FHD
-http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2001656803.m3u8
-#EXTINF:-1 tvg-id="106" tvg-logo="http://tv.sason.xyz/logo/cctv4k.png" group-title="A.央视",CCTV 4K FHD版
-http://140.249.30.36/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
 #EXTINF:-1 tvg-id="0" tvg-logo="http://tv.sason.xyz/logo/cctv4us.png" group-title="A.央视",CCTV-4 美洲 SD
 https://cctvcnch5ca.v.wscdns.com/live/cctvamerica_2/index.m3u8
 #EXTINF:-1 tvg-id="0" tvg-logo="http://tv.sason.xyz/logo/cctv4eu.png" group-title="A.央视",CCTV-4 欧洲 SD
@@ -59,8 +55,6 @@ http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstok
 http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000090.m3u8
 #EXTINF:-1 tvg-id="6000" tvg-logo="http://tv.sason.xyz/logo/cctvfyzq.png" group-title="A.央视",CCTV-风云足球 SD
 http://hls.globaliptv.ml/myguizhou.php?id=cctvfengyunzuqiu
-#EXTINF:-1 tvg-id="6568" tvg-logo="http://tv.sason.xyz/logo/cctvgolf.png" group-title="A.央视",CCTV-高尔夫网球 SD
-http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000088.m3u8
 #EXTINF:-1 tvg-id="6562" tvg-logo="http://tv.sason.xyz/logo/cctvhjjc.png" group-title="A.央视",CCTV-怀旧剧场 SD
 http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000089.m3u8
 #EXTINF:-1 tvg-id="6594" tvg-logo="http://tv.sason.xyz/logo/cctvlgs.png" group-title="A.央视",CCTV-老故事 SD
@@ -71,12 +65,8 @@ http://60.255.149.248/tslive/c213_scc_20190618_jahoddg0_original_r10/c213_scc_20
 http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000092.m3u8
 #EXTINF:-1 tvg-id="0" tvg-logo="http://tv.sason.xyz/logo/cctvwsjk.png" group-title="A.央视",CCTV-卫生健康 SD
 http://hls.globaliptv.ml/myguizhou.php?id=cctvweishengjiankang
-#EXTINF:-1 tvg-id="6592" tvg-logo="http://tv.sason.xyz/logo/cctvxkdm.png" group-title="A.央视",CCTV-新科动漫 SD
-http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000083.m3u8
 #EXTINF:-1 tvg-id="27" tvg-logo="http://tv.sason.xyz/logo/hnws.png" group-title="B.卫视",湖南卫视 FHD
 http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000296203.m3u8
-#EXTINF:-1 tvg-id="29" tvg-logo="http://tv.sason.xyz/logo/jsws.png" group-title="B.卫视",江苏卫视 FHD
-http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000295603.m3u8
 #EXTINF:-1 tvg-id="28" tvg-logo="http://tv.sason.xyz/logo/zjws.png" group-title="B.卫视",浙江卫视 FHD
 http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000295503.m3u8
 #EXTINF:-1 tvg-id="31" tvg-logo="http://tv.sason.xyz/logo/dfws.png" group-title="B.卫视",东方卫视 FHD
@@ -89,8 +79,6 @@ http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000272103.m3u
 http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000292703.m3u8
 #EXTINF:-1 tvg-id="34" tvg-logo="http://tv.sason.xyz/logo/szws.png" group-title="B.卫视",深圳卫视 FHD
 http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000292203.m3u8
-http://60.255.149.248/tslive/c211_scc_20190618_zfhmkt12_original_r10/c211_scc_20190618_zfhmkt12_original_r10.m3u8&
-#EXTINF:-1 tvg-id="1975" tvg-logo="http://tv.sason.xyz/logo/blank.png" group-title="C.综合",极速汽车 FHD ▲
 http://60.255.149.248/tslive/c214_scc_20190618_foyfbby2_original_r10/c214_scc_20190618_foyfbby2_original_r10.m3u8&
 #EXTINF:-1 tvg-id="141" tvg-logo="http://tv.sason.xyz/logo/fhzw.png" group-title="C.综合",[国语]凤凰中文 官方
 http://liveali.ifeng.com/live/FHZW.m3u8
