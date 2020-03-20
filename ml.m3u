@@ -73,10 +73,7 @@ http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstok
 http://hls.globaliptv.ml/myguizhou.php?id=cctvweishengjiankang
 #EXTINF:-1 tvg-id="6592" tvg-logo="http://tv.sason.xyz/logo/cctvxkdm.png" group-title="A.央视",CCTV-新科动漫 SD
 http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000083.m3u8
-#EXTINF:-1 tvg-id="0" tvg-logo="http://tv.sason.xyz/logo/cctvtq.png" group-title="A.央视",CCTV-央视台球 SD
-http://42.48.60.248:8082/live/ystq-800k.m3u8
-#EXTINF:-1 tvg-id="6583" tvg-logo="http://tv.sason.xyz/logo/cctvzxs.png" group-title="A.央视",CCTV-中学生 SD ▲
-http://60.255.149.248/tslive/c214_scc_20190618_xmfr0n1n_original_r10/c214_scc_20190618_xmfr0n1n_original_r10.m3u8&
+
 #EXTINF:-1 tvg-id="27" tvg-logo="http://tv.sason.xyz/logo/hnws.png" group-title="B.卫视",湖南卫视 FHD
 http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000296203.m3u8
 #EXTINF:-1 tvg-id="29" tvg-logo="http://tv.sason.xyz/logo/jsws.png" group-title="B.卫视",江苏卫视 FHD
@@ -94,11 +91,11 @@ http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000292703.m3u
 #EXTINF:-1 tvg-id="34" tvg-logo="http://tv.sason.xyz/logo/szws.png" group-title="B.卫视",深圳卫视 FHD
 http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000292203.m3u8
 http://60.255.149.248/tslive/c211_scc_20190618_zfhmkt12_original_r10/c211_scc_20190618_zfhmkt12_original_r10.m3u8&
-#EXTINF:-1 tvg-id="1975" tvg-logo="http://tv.sason.xyz/logo/blank.png" group-title="E.数字电视",极速汽车 FHD ▲
+#EXTINF:-1 tvg-id="1975" tvg-logo="http://tv.sason.xyz/logo/blank.png" group-title="C.综合",极速汽车 FHD ▲
 http://60.255.149.248/tslive/c214_scc_20190618_foyfbby2_original_r10/c214_scc_20190618_foyfbby2_original_r10.m3u8&
-#EXTINF:-1 tvg-id="141" tvg-logo="http://tv.sason.xyz/logo/fhzw.png" group-title="L.综合",[国语]凤凰中文 官方
+#EXTINF:-1 tvg-id="141" tvg-logo="http://tv.sason.xyz/logo/fhzw.png" group-title="C.综合",[国语]凤凰中文 官方
 http://liveali.ifeng.com/live/FHZW.m3u8
-#EXTINF:-1 tvg-id="141" tvg-logo="http://tv.sason.xyz/logo/fhzw.png" group-title="L.综合",[国语]凤凰中文 FHD
+#EXTINF:-1 tvg-id="141" tvg-logo="http://tv.sason.xyz/logo/fhzw.png" group-title="C.综合",[国语]凤凰中文 FHD
 http://220.158.149.14:9999/live/TV00000000000000000067@HHZT;LIVE
-#EXTINF:-1 tvg-id="142" tvg-logo="http://tv.sason.xyz/logo/fhzx.png" group-title="M.新闻|时政|财经",[国语]凤凰资讯 官方
+#EXTINF:-1 tvg-id="142" tvg-logo="http://tv.sason.xyz/logo/fhzx.png" group-title="C.综合",[国语]凤凰资讯 官方
 http://liveali.ifeng.com/live/FHZX.m3u8
