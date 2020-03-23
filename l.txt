@@ -5,6 +5,7 @@
 东方财经.浦东,http://117.156.28.21/PLTV/88888888/224/3221225667/index.m3u8
 东方财经.浦东,http://39.134.52.153/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225812/1.m3u8
 无线财经,http://103.145.38.152/axg999.php?id=10
+无线财经,http://47.56.167.95/iptv222.php?id=10
 台视财经,//usb.bozztv.com/ssh101/TTVHD/TTVHD/index.m3u8
 
 上海频道,#genre#
