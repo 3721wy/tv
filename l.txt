@@ -1,1 +1,79 @@
+财经频道,#genre#
 
+央视财经,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
+北京财经,http://ivi.bupt.edu.cn/hls/btv5.m3u8
+东方财经.浦东,http://117.156.28.21/PLTV/88888888/224/3221225667/index.m3u8
+东方财经.浦东,http://39.134.52.153/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225812/1.m3u8
+无线财经,http://103.145.38.152/axg999.php?id=10
+台视财经,//usb.bozztv.com/ssh101/TTVHD/TTVHD/index.m3u8
+
+上海频道,#genre#
+上海浦东,http://pdlive.lyuncloud.com/pdlive/pdtv/index.m3u8
+上海这一刻陆家嘴,http://bililive.kksmg.com/hls/sdi7000/playlist.m3u8
+
+东方影视,http://mtv.jdvip.win/tv/mgutv.php?id=617290047
+
+央视频道,#genre#
+
+超高清 4K,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
+CCTV 1,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
+CCTV 2,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
+CCTV 3,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203803.m3u8
+CCTV 4,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204803.m3u8
+CCTV 5,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000205103.m3u8
+CCTV 5+,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204503.m3u8
+CCTV 6,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203303.m3u8
+CCTV 7,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000510003.m3u8
+CCTV 8,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203903.m3u8
+CCTV 9,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000499403.m3u8
+CCTV 10,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203503.m3u8
+CCTV 11,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204103.m3u8
+CCTV 12,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000202603.m3u8
+CCTV 13,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
+CCTV 14,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204403.m3u8
+CCTV 15,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u8
+CCTV 17,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8
+
+卫视频道,#genre#
+
+北京卫视高清,http://ivi.bupt.edu.cn/hls/btv1hd.m3u8
+东方卫视超清,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000292403.m3u8
+广东卫视超清,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000292703.m3u8
+深圳卫视超清,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000292203.m3u8
+湖南卫视超清,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000296203.m3u8
+重庆卫视超清,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000297803.m3u8
+四川卫视超清,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000295003.m3u8
+浙江卫视超清,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000295503.m3u8
+亚旅卫视,http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
+
+港台资讯,#genre#
+
+东森新闻,https://dlhls-cdn-mp.zhanqi.tv/zqlive/298369_X6OEa.m3u8
+东森新闻,http://192.200.120.82:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
+凤凰资讯,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
+凤凰资讯,http://103.145.38.152/axg999.php?id=3
+凤凰中文,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8
+凤凰中文,http://103.145.38.152/axg999.php?id=2
+非凡新闻,https://dlhls-cdn-mp.zhanqi.tv/zqlive/298641_fQSGz.m3u8
+寰宇新闻台湾台,http://ms003.happytv.com.tw:80/live/fkFeyYT8fwboq8Db/index.m3u8
+年代新闻,http://192.200.120.82:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
+民视新闻,http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+三立新闻,http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
+三立新闻,https://dlhls-cdn-mp.zhanqi.tv/zqlive/298998_I3GDL.m3u8
+壹新闻,https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8
+TVBS新闻,http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8
+无线新闻,http://103.145.38.152/axg999.php?id=9
+中天新闻,http://192.200.120.82:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
+
+海外资讯,#genre#
+新唐人中国,https://live2.ntdimg.com/cnlive/playlist.m3u8
+新唐人加东台,https://live.ntdimg.com/mllive860/playlist.m3u8
+新唐人加西台,https://live.ntdimg.com/cwlive220/playlist.m3u8
+新唐人旧金山台,https://live.ntdimg.com/sflive990/playlist.m3u8
+新唐人美东台,https://live.ntdimg.com/live400/playlist.m3u8
+新唐人美西台,https://live.ntdimg.com/uwlive990/playlist.m3u8
+番薯,http://210.209.3.1/live/C02DD98E-593E-47A8-905C-3B101183A555.m3u8?fmt=x264_500K_ts&cpid=admin
+
+体育频道,#genre#
+CCTV 5体育赛事,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000205103.m3u8
+五星体育,http://117.156.28.21/PLTV/88888888/224/3221225603/index.m3u8
