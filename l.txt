@@ -8,9 +8,8 @@
 台视财经,//usb.bozztv.com/ssh101/TTVHD/TTVHD/index.m3u8
 
 上海频道,#genre#
-上海浦东,http://pdlive.lyuncloud.com/pdlive/pdtv/index.m3u8
-上海这一刻陆家嘴,http://bililive.kksmg.com/hls/sdi7000/playlist.m3u8
-
+五星体育,http://117.156.28.21/PLTV/88888888/224/3221225603/index.m3u8
+东方卫视超清,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000292403.m3u8
 东方影视,http://mtv.jdvip.win/tv/mgutv.php?id=617290047
 
 央视频道,#genre#
