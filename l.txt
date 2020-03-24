@@ -4,6 +4,7 @@
 北京财经,http://ivi.bupt.edu.cn/hls/btv5.m3u8
 东方财经.浦东,http://117.156.28.21/PLTV/88888888/224/3221225667/index.m3u8
 东方财经.浦东,http://39.134.52.153/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225812/1.m3u8
+无线财经,mitv://198.255.74.57:12396/5e5020810002752f3d32ff252f84c69d.ts#p8p://0198.02686.cc:16871/5d6000ef00075fa1eddd111e1452c6bc.ts
 无线财经,http://103.145.38.152/axg999.php?id=10
 无线财经,http://47.56.167.95/iptv222.php?id=10
 台视财经,//usb.bozztv.com/ssh101/TTVHD/TTVHD/index.m3u8
@@ -48,6 +49,7 @@ CCTV 17,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/200020
 
 港台资讯,#genre#
 
+东森新闻,mitv://198.255.74.57:12396/5e5fd267000a602c7a81eb9c5ee0fe87.ts#p8p://0198.02686.cc:16871/5d1a69c2000a678211be159b7e5802a8.ts#vjms://58.215.133.197:8500:3502/live/cid=340#https://dlhls-cdn-mp.zhanqi.tv/zqlive/298369_X6OEa.m3u8
 东森新闻,https://dlhls-cdn-mp.zhanqi.tv/zqlive/298369_X6OEa.m3u8
 东森新闻,http://192.200.120.82:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
 东森新闻,http://47.56.167.95/iptv222.php?id=46
