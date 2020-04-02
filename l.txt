@@ -38,37 +38,63 @@ CCTV 4K FHD版,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000266303.m3
 
 卫视频道,#genre#
 
-北京卫视高清,http://ivi.bupt.edu.cn/hls/btv1hd.m3u8
-东方卫视超清,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000292403.m3u8
-广东卫视超清,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000292703.m3u8
-深圳卫视超清,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000292203.m3u8
-湖南卫视超清,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000296203.m3u8
-重庆卫视超清,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000297803.m3u8
-四川卫视超清,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000295003.m3u8
-浙江卫视超清,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000295503.m3u8
-亚旅卫视,http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
+北京卫视 FHD,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000272103.m3u8
+天津卫视 FHD,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226246/1.m3u8
+重庆卫视 FHD,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000297803.m3u8
+东方卫视 FHD,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000292403.m3u8
+广东卫视 FHD,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000292703.m3u8
+深圳卫视 FHD,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000292203.m3u8
+湖南卫视 FHD,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000296203.m3u8江苏卫视 FHD,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000295603.m3u8
+浙江卫视 FHD,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000295503.m3u8
+四川卫视 FHD,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000295003.m3u8
+山东卫视 FHD,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000294803.m3u8
+东南卫视 FHD,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000292503.m3u8
+辽宁卫视 FHD,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000281303.m3u8
+黑龙江卫视 FHD,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000293903.m3u8
+湖北卫视 FHD,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000294503.m3u8
+江西卫视 FHD,http://hls.globaliptv.ml/myguizhou.php?id=jiangxiweishihd
+安徽卫视 FHD,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000298003.m3u8
+河北卫视 FHD,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000293403.m3u8
+河南卫视 FHD,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000296103.m3u8
+贵州卫视 FHD,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000293303.m3u8
+广西卫视 FHD,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000294203.m3u8
+峨眉电影 HD,http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
+海南卫视 FHD,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000291503.m3u8
+吉林卫视 HD,http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=011&Provider_id=&Pcontent_id=index.m3u8
+山西卫视 HD,http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=010&Provider_id=&Pcontent_id=index.m3u8
 
 港台资讯,#genre#
 
-东森新闻,https://dlhls-cpdn-mp.zhanqi.tv/zqlive/298369_X6OEa.m3u8
-东森新闻,http://192.200.120.82:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
-东森新闻,http://47.56.167.95/iptv222.php?id=46
-凤凰资讯,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
-凤凰资讯,http://103.145.38.152/axg999.php?id=3
-凤凰中文,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8
-凤凰中文,http://103.145.38.152/axg999.php?id=2
-非凡新闻,https://dlhls-cdn-mp.zhanqi.tv/zqlive/298641_fQSGz.m3u8
-寰宇新闻台湾台,http://ms003.happytv.com.tw:80/live/fkFeyYT8fwboq8Db/index.m3u8
-年代新闻,http://192.200.120.82:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
-民视新闻,http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
-三立新闻,http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
-三立新闻,https://dlhls-cdn-mp.zhanqi.tv/zqlive/298998_I3GDL.m3u8
-壹新闻,https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8
-TVBS新闻,http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8
-无线新闻,http://103.145.38.152/axg999.php?id=9
-中天新闻,http://192.200.120.82:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
+香港凤凰中文 官方,http://qlive.fengshows.cn/live720p/PCC.m3u8
+香港凤凰中文 FHD,http://220.158.149.14:9999/live/TV00000000000000000067@HHZT;LIVE
+凤凰资讯 官方,http://qlive.fengshows.cn/live720p/PIN.m3u8
+香港凤凰资讯 FHD,http://220.158.149.14:9999/live/TV00000000000000000066@HHZT;LIVE
+凤凰香港 官方,http://qlive.fengshows.cn/live720p/PHK.m3u8
+凤凰电影rtmp://58.200.131.2:1935/livetv/fhdy
+香港有线新闻https://ottproxy2.mott.tv/livehls/MOB-SCC/02.m3u8
+香港有线新闻 ★https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c.m3u8
+香港卫视HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+台湾TVBS新闻 FHD ★,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
+台湾东森财经新闻 FHD ★,http://seb.sason.top/sc/dscjxw_fhd.m3u8
+台湾东森新闻 FHD ★,http://seb.sason.top/sc/dsxw_fhd.m3u8
+台湾华视新闻 FHD ★,http://seb.sason.top/sc/hsxw_fhd.m3u8
+台湾民视新闻 FHD ★,http://seb.sason.top/sc/msxw_fhd.m3u8
+台湾三立iNews FHD ★,http://seb.sason.top/sc/slinews_fhd.m3u8
+台湾三立Live FHD ★,http://seb.sason.top/sc/sllive_fhd.m3u8
+台湾台视新闻 FHD ★,http://seb.sason.top/sc/tsxw_fhd.m3u8
+台湾中视新闻 FHD ★,http://seb.sason.top/sc/zsxw_fhd.m3u8
+台湾中天新闻 FHD ★,http://seb.sason.top/sc/ztxw_fhd.m3u8
+台湾壹新闻 ★https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8
+台湾台视财经 ★https://usb.bozztv.com/ssh101/TTVHD/TTVHD/index.m3u8
+台湾纬来精采 ★https://usb.bozztv.com/ssh101/ttvbHD/ttvbHD/index.m3u8
 
 海外资讯,#genre#
+
+海外NHK华语视界,https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580/livecom_zh.m3u8
+海外新加坡8频道,http://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
+海外NationalGeographic ★,http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
+海外NationalGeographicPeople ★,http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
+海外NationalGeographicWild ★,http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 新唐人中国,https://live2.ntdimg.com/cnlive/playlist.m3u8
 新唐人加东台,https://live.ntdimg.com/mllive860/playlist.m3u8
 新唐人加西台,https://live.ntdimg.com/cwlive220/playlist.m3u8
