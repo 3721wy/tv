@@ -104,6 +104,7 @@ CCTV 4K FHD版,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000266303.m3
 番薯,http://210.209.3.1/live/C02DD98E-593E-47A8-905C-3B101183A555.m3u8?fmt=x264_500K_ts&cpid=admin
 CNN,https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1705215623_b280000_sleng.m3u8
 BBC,http://92.43.140.249/s24/04.m3u8?fluxustv.m3u8
+CNBC,https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8?sd=10
 
 体育频道,#genre#
 CCTV 5体育赛事,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000205103.m3u8
